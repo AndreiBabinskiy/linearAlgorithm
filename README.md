@@ -1,0 +1,2 @@
+# linearAlgorithm
+Линейный алгоритм
